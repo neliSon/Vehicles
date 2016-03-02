@@ -11,9 +11,9 @@
 @implementation Toyota
 
 - (id)init {
-    self = [super init];
+    self = [super initWithModel:@"Pruis"];
     if(self) {
-        self.model = @"Prius";
+        
     }
     return self;
 }

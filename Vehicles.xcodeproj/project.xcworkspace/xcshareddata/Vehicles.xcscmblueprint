@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A265C7B61752B2DB1B61F49ACDF8D393B874EC31",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A265C7B61752B2DB1B61F49ACDF8D393B874EC31" : 0,
+    "5693877E5BA95CE2EB9488198215EC21F90AA840" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2C053A05-5543-4696-8759-F2081C5D288C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A265C7B61752B2DB1B61F49ACDF8D393B874EC31" : "Vehicles\/",
+    "5693877E5BA95CE2EB9488198215EC21F90AA840" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Vehicles",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Vehicles.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/neliSon\/assignments.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5693877E5BA95CE2EB9488198215EC21F90AA840"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/neliSon\/Vehicles.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A265C7B61752B2DB1B61F49ACDF8D393B874EC31"
+    }
+  ]
+}
